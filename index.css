@@ -194,6 +194,7 @@
 .previous__text {
   font-family: "Montserrat", sans-serif;
   margin: 1em 0;
+  padding-right: 0.5em;
 }
 
 .previous__imgs {
